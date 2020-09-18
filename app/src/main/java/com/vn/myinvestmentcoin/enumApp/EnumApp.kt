@@ -1,0 +1,5 @@
+package com.vn.myinvestmentcoin.enumApp
+
+enum class TypeEventBusEnum() {
+    REFRESH_LANGUAGES, REFRESH_PROFILE, PASS_DATA_BACK, PASS_STAFF, PASS_ROOM, PASS_STATIONERY, EDIT, DELETE, RELOAD, PASS_INFO_PROJECT,FILTER
+}

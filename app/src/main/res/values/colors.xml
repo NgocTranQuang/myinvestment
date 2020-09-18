@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004f7c</color>
+    <color name="colorPrimaryDark">#33000000</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="colorPrimaryLight">#fff4e9</color>
+    <color name="toolbar_start_color">#002e51</color>
+    <color name="toolbar_center_color">#004c85</color>
+    <color name="toolbar_end_color">#006ea5</color>
+
+    <color name="colorButtonDone">@color/colorPrimary</color>
+
+    <color name="greenHeaderColor">#d9f3ff</color>
+    <color name="textNumberPhoneBookColor">#ffffff</color>
+    <color name="colorPriLight">#2677b9</color>
+    <color name="colorButtonCancel">#989898</color>
+
+    <color name="colorIcon">#00558e</color>
+
+    <color name="colorSubmissionTimeTitle">#000</color>
+    <color name="colorSubmissionTimeProgress">#f3622f</color>
+
+    <color name="progress_loading_gradient_center_color">#f8b957</color>
+    <color name="progress_loading_gradient_end_color">#ee3224</color>
+    <color name="colorCircleAvatar">#ea9b11</color>
+
+    <color name="colorCalendarEvent">#b0d4ef</color>
+    <color name="colorHeaderTimeKeeping">#d8edfc</color>
+    <color name="colorValueTimeKeeping">@color/colorPrimary</color>
+    <color name="colorWhite">#ffffff</color>
+
+</resources>

@@ -1,0 +1,75 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="toolbar_half_padding_horizontal">8dp</dimen>
+
+    <dimen name="padding_editext">8dp</dimen>
+    <dimen name="min_padding">4dp</dimen>
+    <dimen name="image_circle_padding">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="line_separator_size">0.5dp</dimen>
+    <dimen name="line_site_size">0.2dp</dimen>
+    <dimen name="height_line_size">1dp</dimen>
+    <dimen name="card_view_elevation">8dp</dimen>
+    <dimen name="radius_button_program">3dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="card_big_elevation">15dp</dimen>
+    <dimen name="margin_top_combo">5dp</dimen>
+    <dimen name="margin_right_combo">20dp</dimen>
+    <dimen name="margin_end_with_shadow">13dp</dimen>
+    <dimen name="corner_yellow_border">25dp</dimen>
+    <dimen name="height_toolbar">56dp</dimen>
+    <!--<dimen title="height_btn">@dimen/dp_158</dimen>-->
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">@dimen/dp_28</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">@dimen/dp_28</dimen>
+
+    <dimen name="pv_pin_view_item_size">48dp</dimen>
+    <dimen name="pv_pin_view_item_radius">5dp</dimen>
+    <dimen name="pv_pin_view_item_spacing">5dp</dimen>
+    <dimen name="pv_pin_view_item_line_width">2dp</dimen>
+    <dimen name="pv_pin_view_cursor_width">2dp</dimen>
+    <dimen name="header_vertical_padding">10dp</dimen>
+    <!-- custom progress bar -->
+    <dimen name="progress_loading_dialog_logo_size">64dp</dimen>
+    <dimen name="progress_loading_dialog_indeterminate_size">32dp</dimen>
+    <dimen name="progress_loading_dialog_inner_radius">26dp</dimen>
+    <dimen name="progress_loading_thickness">2dp</dimen>
+    <dimen name="progress_loading_view_size">48dp</dimen>
+    <dimen name="progress_loading_view_indeterminate_size">24dp</dimen>
+    <dimen name="progress_loading_view_inner_radius">20dp</dimen>
+
+
+    <dimen name="marginTop_menuTop">-20dp</dimen>
+
+    <dimen name="textSize120">40sp</dimen>
+    <dimen name="textSize75">25sp</dimen>
+    <dimen name="textSize72">24sp</dimen>
+    <dimen name="textSize70">23sp</dimen>
+    <dimen name="textSize61">20sp</dimen>
+    <dimen name="textSize50">18sp</dimen>
+    <dimen name="textSize48">16sp</dimen>
+    <dimen name="textSize44">14.6sp</dimen>
+    <dimen name="textSize40">14sp</dimen>
+    <dimen name="textSize36">12sp</dimen>
+    <dimen name="textSize30">12sp</dimen>
+    <item name="match_parent" type="dimen">-1</item>
+    <item name="wrap_content" type="dimen">-2</item>
+
+    <dimen name="login_card_width">@dimen/match_parent</dimen>
+    <dimen name="choose_company_card_width">@dimen/match_parent</dimen>
+    <integer name="grid_span_count">3</integer>
+
+    <!--<editor-fold desc="Collapsible calendar">-->
+    <!-- title bar -->
+    <dimen name="title_bar_button_width">36dp</dimen>
+    <dimen name="title_bar_button_height">36dp</dimen>
+
+    <!-- day -->
+    <dimen name="day_circle_width">24dp</dimen>
+    <dimen name="day_circle_height">24dp</dimen>
+    <dimen name="day_circle_radius">120dp</dimen>
+    <dimen name="day_circle_stroke_width">1dp</dimen>
+    <!--</editor-fold>-->
+
+</resources>
